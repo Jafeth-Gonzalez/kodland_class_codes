@@ -14,4 +14,4 @@ slang_diccionario = {
 }
 significate = get_significate(input("Escribe una palabra que no entiendas (¡con mayúsculas!): "),slang_diccionario) #me es mas facil asi
 print(significate)#no se que comentar ya que decir  que decir "devuelve  el significado" es muy obvio  y no se como dar contexto
-#cambio pal repo
+
